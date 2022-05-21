@@ -1,5 +1,5 @@
 function(a, b)
 {
-	return (a + b) 	/ 3
+	return (a + c) 	/ 3
 }
 no to nowy branch wazona
